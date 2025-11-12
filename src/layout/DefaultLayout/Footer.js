@@ -24,15 +24,7 @@ function Footer() {
                         Liên hệ với tôi
                     </h4>
                     <div className='flex flex-col gap-[12px]'>
-                        <a href='https://www.facebook.com/phohoccode.2004' target="_blank" rel="noopener" className='text-xl hover:text-[#10b981] duration-300'>
-                            <i className="mr-[8px] fa-brands fa-square-facebook"></i>
-                            Facebook
-                        </a>
-                        <a href='https://github.com/phohoccode' target="_blank" rel="noopener" className='text-xl hover:text-[#10b981] duration-300'>
-                            <i className="mr-[8px] fa-brands fa-github"></i>
-                            Github
-                        </a>
-                        <a href='https://t.me/phohoccode_04' target="_blank" rel="noopener" className='text-xl hover:text-[#10b981] duration-300'>
+                        <a href='https://t.me/nauT_oV' target="_blank" rel="noopener" className='text-xl hover:text-[#10b981] duration-300'>
                             <i className="mr-[8px] fa-brands fa-telegram"></i>
                             Telegram
                         </a>
@@ -41,7 +33,7 @@ function Footer() {
             </div>
             <div className='mt-[48px] font-[600] text-[#fff] text-center'>
                 <p className='mb-[8px]'>Tôi cung cấp web đọc truyện miễn phí, nên các bạn hãy tôn trọng công sức và công sức của tôi. Xin cảm ơn!</p>
-                <span className='text-xl text-[#10b981]'>Bản quyền thuộc phohoccode</span>
+                <span className='text-xl text-[#10b981]'>Bản quyền thuộc VietNovel</span>
             </div>
         </div>
     );

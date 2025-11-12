@@ -166,7 +166,7 @@ function Read() {
                                     <i className="mx-[4px] fa-solid fa-arrow-down"></i> để tự động cuộn trang sau 6 giây.
                                 </p>}
                             <span className='text-lg font-[600] text-center text-[#d90429] dark:text-[#fff]'>Nếu truyện bị lỗi vui lòng liên hệ qua Telegram:
-                                <a href="https://t.me/phomanga" target="_blank" rel="noopener" className='ml-[12px] underline'>phomanga-v2</a>
+                                <a href="https://t.me/VietNovel" target="_blank" rel="noopener" className='ml-[12px] underline'>VietNovel-v2</a>
                             </span>
                         </div>
                         <div className='flex gap-[8px] justify-center mt-[24px]'>
